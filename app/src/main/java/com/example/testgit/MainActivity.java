@@ -18,5 +18,9 @@ public class MainActivity extends AppCompatActivity {
     public void testA() {
         Log.d("gggTAG", "testK: ");
     }
+    public void testB() {
+        //this method was created in branch 1
+        Log.d("gggTAG", "testK: ");
+    }
 
 }
