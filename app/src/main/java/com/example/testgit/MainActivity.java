@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
     public void testK() {
         Log.d("gggTAG", "testK: ");
     }
+    public void testA() {
+        Log.d("gggTAG", "testK: ");
+    }
+
 }
